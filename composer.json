@@ -1,0 +1,19 @@
+{
+  "name": "newageerp/sf-serializer",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "Newageerp\\SfSerializer\\": ""
+    }
+  },
+  "require": {
+    "doctrine/orm": "^2"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arturas Jegorenkovas",
+      "email": "info@newageerp.com"
+    }
+  ]
+}
